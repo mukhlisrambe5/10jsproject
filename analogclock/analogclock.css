@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(201, 27, 27);
+    position: fixed;
+}
+
+canvas{
+    margin:auto;
+    /* position: center; */
+    
+}
+
+#container{
+    position: relative;
+    margin: auto;
+    /* width: 80%; */
+    /* margin-left: 0px; */
+}

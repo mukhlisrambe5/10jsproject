@@ -1,0 +1,42 @@
+#container{
+    width: 280px;
+    height: 400px;
+    background-color: #000;
+    color:#fff;
+    margin: auto;
+    margin-top: 65px;
+    padding-left: 30px;
+}
+
+#feet{
+    width: 150px;
+    height: 25px;
+    margin-top: 30px;
+    margin-left: 15px;
+}
+
+#inches{
+    width: 150px;
+    height: 25px;
+    margin-top: 30px;
+    margin-left: 3px;
+}
+
+#submit{
+    width: 100px;
+    height: 25px;
+    margin-top: 30px;
+    margin-left: 70px;
+    background-color: red
+}
+
+#result{
+    color: blue;
+    font-size: 40px;
+    font-weight: bold;
+    /* margin: auto; */
+    margin-top: 30px;
+    margin-left: 75px;
+    /* text-align: center; */
+
+}
